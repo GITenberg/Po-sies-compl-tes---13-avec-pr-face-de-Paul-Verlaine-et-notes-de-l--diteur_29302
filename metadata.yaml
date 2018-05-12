@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33825
     wikipedia: http://fr.wikipedia.org/wiki/Arthur_Rimbaud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29302#Po-sies-compl-tes---13-avec-pr-face-de-Paul-Verlaine-et-notes-de-l--diteur
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2009-07-03'
 gutenberg_type: Text
