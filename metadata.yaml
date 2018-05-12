@@ -1,0 +1,40 @@
+_repo: Po-sies-compl-tes---13-avec-pr-face-de-Paul-Verlaine-et-notes-de-l--diteur_29302
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Verlaine, Paul
+    alias: Verlaine, Paul Marie
+    birthdate: 1844
+    deathdate: 1896
+    gutenberg_agent_id: '1531'
+    url: http://www.gutenberg.org/2009/agents/1531
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Paul_Verlaine
+    - http://fr.wikipedia.org/wiki/Paul_Verlaine
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rimbaud, Arthur
+    alias: Rimbaud, Jean Nicolas Arthur
+    birthdate: 1854
+    deathdate: 1891
+    gutenberg_agent_id: '33825'
+    url: http://www.gutenberg.org/2009/agents/33825
+    wikipedia: http://fr.wikipedia.org/wiki/Arthur_Rimbaud
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2009-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29302'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: "Poésies complètes,\r\navec préface de Paul Verlaine et notes de l'éditeur"
+url: http://www.gutenberg.org/ebooks/29302
