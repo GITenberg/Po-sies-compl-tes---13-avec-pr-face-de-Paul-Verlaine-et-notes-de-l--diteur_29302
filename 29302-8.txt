@@ -13,7 +13,7 @@ Author: Arthur Rimbaud
 Commentator: Paul Verlaine
 
 Release Date: July 3, 2009 [EBook #29302]
-[Last updated: December 16, 2011]
+[Last updated: August 2, 2014]
 
 Language: French
 
@@ -795,7 +795,7 @@ BATEAU IVRE
     La tempête a béni mes éveils maritimes.
     Plus léger qu'un bouchon j'ai dansé sur les flots
     Qu'on appelle rouleurs éternels de victimes,
-    Dix nuit, sans regretter l'oeil niais des falots.
+    Dix nuits, sans regretter l'oeil niais des falots.
 
     Plus douce qu'aux enfants la chair des pommes sures
     L'eau verte pénétra ma coque de sapin
@@ -829,7 +829,7 @@ BATEAU IVRE
 
     J'ai suivi des mois pleins, pareille aux vacheries
     Hystériques, la houle à l'assaut des récifs,
-    Sons songer que les pieds lumineux des Maries
+    Sans songer que les pieds lumineux des Maries
     Pussent forcer le muffle aux Océans poussifs;
 
     J'ai heurté, savez-vous? d'incroyables Florides,
@@ -842,14 +842,14 @@ BATEAU IVRE
     Des écroulements d'eaux au milieu des bonaces
     Et les lointains vers les gouffres cataractant!
 
-    Glaciers, soleils d'argent, flots nacreux, cieux braises
+    Glaciers, soleils d'argent, flots nacreux, cieux de braises!
     Échouages hideux au fond des golfes bruns
     Où les serpents géants dévorés des punaises
-    Choient des arbres tordus avec de noirs parfums.
+    Choient des arbres tordus avec de noirs parfums!
 
     J'aurais voulu montrer aux enfants ces dorades
     Du flot bleu, ces poissons d'or, ces poissons chantants,
-    Des écumes de fleurs ont béni mes dorades
+    Des écumes de fleurs ont béni mes dérades
     Et d'ineffables vents m'ont ailé par instants.
 
     Parfois, martyr lassé des pôles et des zones,
@@ -1774,7 +1774,7 @@ I
     Voici plus de mille ans que sa douce folie
     Murmure sa romance à la brise du soir.
 
-    Le vent baise ses reins et déploie en corolle
+    Le vent baise ses seins et déploie en corolle
     Ses longs voiles bercés mollement par les eaux;
     Les saules frissonnants pleurent sur son épaule,
     Sur son grand front rêveur s'inclinent les roseaux.
